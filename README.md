@@ -1,4 +1,4 @@
-(lesser-known) tools for doing (computer) science
+# (Lesser-known) tools for doing (computer) science
 
 ## Coding
 * [z](https://github.com/rupa/z) reads your mind and jumps to the directory you're thinking about
