@@ -7,6 +7,7 @@
 ## Reading
 * [Sioyek](https://sioyek.info) lets you read papers if you are allergic to mice
 * [Skim](https://skim-app.sourceforge.io) lets you read papers if you are not allergic to mice
+* [Zotero](https://www.zotero.org) saves all the papers you'll never read
 
 ## Writing
 * [Ipe](https://ipe.otfried.org) makes pictures as beautiful as your algorithms
