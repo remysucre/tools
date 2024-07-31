@@ -12,7 +12,7 @@
 * [Ipe](https://ipe.otfried.org) makes pictures as beautiful as your algorithms
 * [LyX](https://www.chachatelier.fr/latexit/) reduces nausea while you write latex
 * [LaTeXiT](https://www.chachatelier.fr/latexit/) gives you latex without forcing beamer on you
-* [git-latexdiff](https://gitlab.com/git-latexdiff/git-latexdiff) shows how your advisor ruined your paper
+* [git-latexdiff](https://gitlab.com/git-latexdiff/git-latexdiff) shows how your advisor ~ruined~ fixed your paper
 * [Pandoc](https://pandoc.org) helps you waste less time blogging
 
 ## Communicating
